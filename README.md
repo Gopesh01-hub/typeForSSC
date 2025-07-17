@@ -1,1 +1,1 @@
-# typeForSSC
+# type4SSC
